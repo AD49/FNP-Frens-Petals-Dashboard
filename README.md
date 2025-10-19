@@ -1,17 +1,17 @@
-# 🌸 FNP (Ferns & Petals) Sales & Performance Dashboard
+#  FNP (Ferns & Petals) Sales & Performance Dashboard
 
 This project is an interactive Excel-based dashboard built for **Ferns & Petals (FNP)** to analyze and visualize key business metrics such as sales, revenue, customer insights, and category performance.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The **FNP Dashboard** provides a detailed view of company performance across various dimensions including product categories, regions, time periods, and customer segments.
 It helps management track performance trends, identify growth areas, and make data-driven business decisions.
 
 ---
 
-## 📊 Key Insights & Features
+##  Key Insights & Features
 
 * **Sales Overview:** Total revenue, order count, and average order value.
 * **Category Performance:** Comparison of different product categories such as flowers, cakes, and gifts.
@@ -22,7 +22,7 @@ It helps management track performance trends, identify growth areas, and make da
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Microsoft Excel**
 
@@ -41,7 +41,7 @@ It helps management track performance trends, identify growth areas, and make da
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 1. Download the Excel file:
    [`FNP (Ferns & Petals) - Complete.xlsx`](./FNP%20%28Ferns%20&%20Petals%29%20-%20Complete.xlsx)
@@ -54,7 +54,7 @@ It helps management track performance trends, identify growth areas, and make da
 
 ---
 
-## 🔍 Future Improvements
+##  Future Improvements
 
 * Integrate Power Query for automated data refresh.
 * Add Power BI version of the dashboard for online visualization.
@@ -62,7 +62,7 @@ It helps management track performance trends, identify growth areas, and make da
 
 ---
 
-## ✨ Author
+##  Author
 
 **Created by:** [ Adityaveer Singh]
 📧 [[Adityaveer Singh](adityaveer361@gmail.com)]
